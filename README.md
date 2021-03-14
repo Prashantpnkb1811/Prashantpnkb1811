@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prashant Kumar Bhaiya
 - 👀 I’m interested in Web development and other coding stuff
 - 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on Web Development
+- 💞️ I’m looking to collaborate for Web Development
 - 📫 How to reach me prashant.pnkb1811@gmail.com
 
 <!---
